@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
   s.email       = 'terciodemelo@gmail.com'
   s.files       = ["lib/is_this_city_in_brazil.rb"]
   s.homepage    =
-    'http://rubygems.org/gems/is_this_city_in_brazil'
+    'https://github.com/terciodemelo/is_this_city_in_brazil'
   s.license       = 'MIT'
 end
